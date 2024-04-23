@@ -1,0 +1,123 @@
+header{
+
+    background-color: #287265;
+}
+nav ul{
+    text-align: center;
+    padding: 50px;
+   
+}
+ul li{
+    padding: 50px;
+
+}
+
+
+
+li{
+    display: inline;
+    
+}
+li a{
+    list-style-type: none;
+    text-decoration: none;
+    color: #fff;
+    
+    
+}
+
+ul li a:hover{
+    color: rgba(255, 255, 0, 0.678);
+}
+body{
+    font-family: "Roboto", sans-serif;
+    margin: 0;
+
+}
+
+
+section h1 {
+    text-align: center;
+}
+.section1{
+    display: flex;
+    
+
+}
+.section1 h1{
+    width: 40%;
+    padding-top: 20px;
+    
+    
+}
+.section1 p {
+    width: 50%;
+
+}
+
+.section2{
+    background-color: #000;
+    color: #fff;
+    display: flex;
+    
+    
+}
+.section2 h1{
+    width: 40%;
+    padding-top: 20px;
+    
+    
+}
+.section2 p {
+    width: 50%;
+    padding: 15px;
+
+}
+
+
+
+ 
+.section3 img{
+    border: solid 3px black;
+    display: block;
+    width: 300px;
+    height: 400px;
+    margin: auto;
+
+}
+
+ form{
+   
+    border: solid 2px #000 ;
+    width: 30%;
+    display: block;
+    margin: auto;
+    margin-bottom: 5px;
+    
+}
+
+input{
+    width: 98%;
+}
+textarea{
+    width: 98.5%;
+}
+
+footer{
+
+    background-color: #287265;
+    padding: 5px;
+    color: #fff;
+    
+    
+}
+
+footer p{
+    text-align: center;
+    
+}
+
+
+
+
+ 
